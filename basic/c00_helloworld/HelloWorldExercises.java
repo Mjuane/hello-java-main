@@ -13,6 +13,7 @@ public class HelloWorldExercises {
         System.out.println("Miguel");
 
         // 2. Imprime dos líneas: "Hola" y luego "Mundo" con un solo println.
+        System.out.println("Hola\nMundo");
 
         // 3. Añade un comentario sobre lo que hace cada línea del programa.
 
