@@ -39,6 +39,7 @@ public class HelloWorldExercises {
         System.out.println("para escribir una frase");
 
         // 8. Imprime un diseño ASCII (por ejemplo, una cara feliz usando símbolos).
+        System.err.println(":)");
 
         // 9. Intenta ejecutar el programa sin el método main y observa el error.
 
