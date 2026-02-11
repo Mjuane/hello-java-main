@@ -35,6 +35,8 @@ public class HelloWorldExercises {
         System.out.println("Print Normal");
         
         // 7. Utiliza varios println para imprimir una frase.
+        System.out.println("Utiliza varios printl");
+        System.out.println("para escribir una frase");
 
         // 8. Imprime un diseño ASCII (por ejemplo, una cara feliz usando símbolos).
 
