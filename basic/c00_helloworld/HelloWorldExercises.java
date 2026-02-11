@@ -5,8 +5,10 @@ Clase 14 - Ejercicios: Primeros pasos
 Vídeo: https://youtu.be/JOAqpdM36wI?t=5108
 */
 
+// Crear una clase publica
 public class HelloWorldExercises {
 
+    // Crear el metodo main de la clase
     public static void main(String[] args) {
 
         // 1. Imprime un mensaje que diga tu nombre en lugar de "¡Hola Mundo!".
@@ -16,7 +18,7 @@ public class HelloWorldExercises {
         System.out.println("Hola\nMundo");
 
         // 3. Añade un comentario sobre lo que hace cada línea del programa.
-
+            //Echo
         // 4. Crea un comentario en varias líneas.
 
         // 5. Imprime tu edad, tu color favorito y tu ciudad.
