@@ -26,8 +26,8 @@ public class BeginnerExercises {
         System.out.println(programing);
 
         // 5. Declara una constante con tu email.
-        final String myEmail = "miguel@gmail.com";
-        System.out.println(myEmail);
+        final String EMAIL = "miguel@gmail.com";
+        System.out.println(EMAIL);
 
         // 6. Crea una variable de tipo char y guárdale tu inicial.
         char firstLetter = 'M';
