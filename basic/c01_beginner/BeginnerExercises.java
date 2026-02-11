@@ -18,6 +18,8 @@ public class BeginnerExercises {
         System.out.println(age);
 
         // 3. Crea una variable double con tu altura en metros.
+        double height = 1.80;
+        System.out.println(height);
 
         // 4. Declara una variable de tipo boolean que indique si te gusta programar.
 
