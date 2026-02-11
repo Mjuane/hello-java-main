@@ -31,7 +31,9 @@ public class HelloWorldExercises {
         System.out.println("Edad:23     Color Favorito: Rosa    Isla: Mallorca");
 
         // 6. Explora los diferentes System.XXX.println(); más allá de "out".
-
+        System.err.println("Error 404");
+        System.out.println("Print Normal");
+        
         // 7. Utiliza varios println para imprimir una frase.
 
         // 8. Imprime un diseño ASCII (por ejemplo, una cara feliz usando símbolos).
