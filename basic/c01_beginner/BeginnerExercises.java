@@ -22,6 +22,8 @@ public class BeginnerExercises {
         System.out.println(height);
 
         // 4. Declara una variable de tipo boolean que indique si te gusta programar.
+        boolean programing = true;
+        System.out.println(programing);
 
         // 5. Declara una constante con tu email.
 
