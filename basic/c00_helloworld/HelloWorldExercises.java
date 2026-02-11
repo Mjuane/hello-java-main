@@ -28,6 +28,7 @@ public class HelloWorldExercises {
         */
 
         // 5. Imprime tu edad, tu color favorito y tu ciudad.
+        System.out.println("Edad:23     Color Favorito: Rosa    Isla: Mallorca");
 
         // 6. Explora los diferentes System.XXX.println(); más allá de "out".
 
