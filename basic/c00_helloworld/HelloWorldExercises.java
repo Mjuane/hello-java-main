@@ -43,6 +43,8 @@ public class HelloWorldExercises {
 
         // 9. Intenta ejecutar el programa sin el método main y observa el error.
 
+        System.err.println("Error: no se ha encontrado el método principal en la clase basic.c00_helloworld.HelloWorldExercises, defina el método principal del siguiente modo:\\n   public static void main(String[] args)\\nde lo contrario, se deberá ampliar una clase de aplicación JavaFX javafx.application.Application");
+
         //10. Intenta cambiar el nombre del archivo a uno diferente del de la clase y compílalo. ¿Qué pasa?
 
     }
