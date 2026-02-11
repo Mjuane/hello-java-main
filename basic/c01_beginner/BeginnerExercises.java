@@ -30,6 +30,8 @@ public class BeginnerExercises {
         System.out.println(email);
 
         // 6. Crea una variable de tipo char y guárdale tu inicial.
+        char firstLetter = 'M';
+        System.out.println(firstLetter);
 
         // 7. Declara una variable de tipo String con tu localidad, y a continuación cambia su valor y vuelve a imprimirla.
 
