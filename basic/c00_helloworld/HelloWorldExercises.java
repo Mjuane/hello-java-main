@@ -20,6 +20,12 @@ public class HelloWorldExercises {
         // 3. Añade un comentario sobre lo que hace cada línea del programa.
 
         // 4. Crea un comentario en varias líneas.
+        /*
+        Comentario
+        en
+        varias
+        líneas.
+        */
 
         // 5. Imprime tu edad, tu color favorito y tu ciudad.
 
