@@ -18,7 +18,7 @@ public class HelloWorldExercises {
         System.out.println("Hola\nMundo");
 
         // 3. Añade un comentario sobre lo que hace cada línea del programa.
-            //Echo
+
         // 4. Crea un comentario en varias líneas.
 
         // 5. Imprime tu edad, tu color favorito y tu ciudad.
