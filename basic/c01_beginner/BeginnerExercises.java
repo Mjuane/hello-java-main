@@ -50,5 +50,6 @@ public class BeginnerExercises {
         System.out.println("FirstLetter es de tipo char pero no se puede hacer el .getSimpleName");
 
         // 10. Intenta declarar una variable sin inicializarla y luego asígnale un valor antes de imprimirla.
+        System.err.println("Random cannot be resolved to a variable");
     }
 }
