@@ -1,4 +1,4 @@
-package basic.c01_beginner;
+package Completo.c01_beginner;
 
 /*
 Clase 17 - Ejercicios: Variables y constantes
