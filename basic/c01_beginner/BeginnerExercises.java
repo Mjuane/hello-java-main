@@ -41,6 +41,9 @@ public class BeginnerExercises {
         System.out.println(localidad);
 
         // 8. Crea una variable int llamada a, otra b, e imprime la suma de ambas.
+        int a = 5;
+        int b = 10;
+        System.out.println(a + b);
 
         // 9. Imprime el tipo de dos variables creadas anteriormente.
 
