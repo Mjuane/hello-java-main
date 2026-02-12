@@ -46,6 +46,8 @@ public class BeginnerExercises {
         System.out.println(a + b);
 
         // 9. Imprime el tipo de dos variables creadas anteriormente.
+        System.out.println("Localidad es de tipo " + localidad.getClass().getSimpleName());
+        System.out.println("FirstLetter es de tipo char pero no se puede hacer el .getSimpleName");
 
         // 10. Intenta declarar una variable sin inicializarla y luego asígnale un valor antes de imprimirla.
     }
