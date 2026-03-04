@@ -68,6 +68,8 @@ public class OperatorsExercises {
         
         // 7. Combina ambos operadores lógicos.
 
+        System.out.println(a >= b && (a == b || a != b));
+
         // 8. Añade alguna negación.
 
         // 9. Imprime 3 ejemplos de uso de operadores unarios.
