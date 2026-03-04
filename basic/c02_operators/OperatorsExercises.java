@@ -76,6 +76,10 @@ public class OperatorsExercises {
 
         // 9. Imprime 3 ejemplos de uso de operadores unarios.
 
+        System.out.println("Noe se ha asustado " + ++a + " veces");
+        System.out.println("Quedan " + a + " segundos, " + --a + " segundos...");
+        System.out.println("Si a " + a++ + " le sumas 1, el resultado es " + a);
+
         // 10. Combina operadores aritméticos, de comparación y lógicos.
     }
 }
