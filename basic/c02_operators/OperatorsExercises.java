@@ -64,6 +64,8 @@ public class OperatorsExercises {
 
         // 6. Utiliza el operador lógico or.
 
+        System.out.println(a <= b || b != a);
+        
         // 7. Combina ambos operadores lógicos.
 
         // 8. Añade alguna negación.
