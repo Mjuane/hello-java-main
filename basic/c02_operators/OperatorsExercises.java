@@ -60,6 +60,8 @@ public class OperatorsExercises {
 
         // 5. Utiliza el operador lógico and.
 
+        System.out.println(a <= b && b != a);
+
         // 6. Utiliza el operador lógico or.
 
         // 7. Combina ambos operadores lógicos.
