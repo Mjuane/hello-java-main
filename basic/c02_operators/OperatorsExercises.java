@@ -11,6 +11,14 @@ public class OperatorsExercises {
 
         // 1. Crea una variable con el resultado de cada operación aritmética.
 
+        var a = 5;
+
+        System.out.println(a + a);
+        System.out.println(a - a);
+        System.out.println(a * a);
+        System.out.println(a / a);
+        System.out.println(a % a);
+
         // 2. Crea una variable para cada tipo de operación de asignación.
 
         // 3. Imprime 3 comparaciones verdaderas con diferentes operadores de comparación.
