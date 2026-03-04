@@ -81,5 +81,7 @@ public class OperatorsExercises {
         System.out.println("Si a " + a++ + " le sumas 1, el resultado es " + a);
 
         // 10. Combina operadores aritméticos, de comparación y lógicos.
+
+        System.out.println(a + b == a + a && (a >= b || a != b ));
     }
 }
