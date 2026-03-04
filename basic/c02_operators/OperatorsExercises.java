@@ -54,6 +54,10 @@ public class OperatorsExercises {
 
         // 4. Imprime 3 comparaciones falsas con diferentes operadores de comparación.
 
+        System.out.println(a == b);
+        System.out.println(a <= b);
+        System.out.println(a != a);
+
         // 5. Utiliza el operador lógico and.
 
         // 6. Utiliza el operador lógico or.
