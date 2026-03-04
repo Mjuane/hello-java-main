@@ -1,4 +1,4 @@
-package basic.c02_operators;
+package Completo.c02_operators;
 
 public class Operators {
 
